@@ -18,7 +18,7 @@ requirements.txt         Dependencias de Python
 db/
   stellarium_completo.sql            Script completo (tablas + datos + procedimientos + triggers + datos ampliados)
   stellarium_procedimientos.sql      Solo borrado lógico, triggers y procedimientos
-  stellarium_parche_turnos.sql       Parche: capacidad de espacios y lista de turnos (no borra datos)
+  stellarium_parche_turnos.sql       Parche: capacidad de espacios y lista de turnos
   stellarium_datos_ampliados.sql     Solo los datos de prueba adicionales
 ```
 
